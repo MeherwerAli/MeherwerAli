@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MeherwerAli
-- 👀 I’m interested in Java Spring, Hibernate, Redis, No-SQL, Messaging Queues and Ruby on Rails
-- 🌱 I’m currently Angular and Rails 5.
-- 💞️ I’m looking to collaborate on Java Spring,Hibernate, redisson projects also in futue I wish to collaborate on Rails projects. 
+- 👀 I’m interested in Java Spring, Hibernate, Redis, NoSQL, Dockers, AWS and Kafka
+- 🌱 I’m currently working as a Backend Developer.
+- 💞️ I’m looking to collaborate on Java Spring,Hibernate, redisson projects also in future I wish to collaborate on Java projects. 
 - 📫 You can contact me via email meherwer.09@gmail.com
 
 <!---
