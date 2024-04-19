@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeherwerAli
-- 👀 I’m interested in Java Spring, Hibernate, Redis, NoSQL, Dockers, AWS and Kafka
-- 🌱 I’m currently working as a Backend Developer.
+- 👀 I’m interested in Java Spring, Hibernate, NodeJS, AI Integrations, Redis, PostgreSQL, NoSQL, Dockers, Kubernetes, AWS and Kafka
+- 🌱 I’m currently working as a Senior Software Engineer.
 - 💞️ I’m looking to collaborate on Java Spring,Hibernate, redisson projects also in future I wish to collaborate on Java projects. 
 - 📫 You can contact me via email meherwer.09@gmail.com
 
