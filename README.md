@@ -63,4 +63,6 @@ I prefer systems where:
 - Email: [meherwer.09@gmail.com](mailto:meherwer.09@gmail.com) 
 - GitHub: [@MeherwerAli](https://github.com/MeherwerAli)
 - Medium: [@meherwer_ali](https://medium.com/@meherwer_ali)
-I am interested in collaborating on Java, Spring, Kafka, distributed-systems, and developer-tooling projects.
+
+
+I am interested in collaborating on Java, Spring, ExpressJS, NodeJS, Applied AI, NLP,  Kafka, distributed-systems, and developer-tooling projects.
