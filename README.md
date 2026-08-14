@@ -67,4 +67,5 @@ I prefer systems where:
 <br>
 
 ## Collaboration
-#### I am interested in collaborating on Java, Spring, ExpressJS, NodeJS, Applied AI, NLP,  Kafka, distributed-systems, and developer-tooling projects.
+
+I am interested in collaborating on Java, Spring, ExpressJS, NodeJS, Applied AI, NLP,  Kafka, distributed-systems, and developer-tooling projects.
