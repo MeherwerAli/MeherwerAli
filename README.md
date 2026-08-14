@@ -64,5 +64,7 @@ I prefer systems where:
 - GitHub: [@MeherwerAli](https://github.com/MeherwerAli)
 - Medium: [@meherwer_ali](https://medium.com/@meherwer_ali)
 
+<br>
 
-I am interested in collaborating on Java, Spring, ExpressJS, NodeJS, Applied AI, NLP,  Kafka, distributed-systems, and developer-tooling projects.
+## Collaboration
+#### I am interested in collaborating on Java, Spring, ExpressJS, NodeJS, Applied AI, NLP,  Kafka, distributed-systems, and developer-tooling projects.
