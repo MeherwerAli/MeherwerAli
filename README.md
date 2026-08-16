@@ -22,8 +22,10 @@ My public work focuses on making architecture, failure handling, observability, 
 
 | Project | What it demonstrates |
 |---|---|
+| [VaultSearch](https://github.com/MeherwerAli/vaultsearch) | Headless Java 17 and Spring Boot search service for Obsidian-style Markdown vaults, with a transactional MySQL-to-Elasticsearch outbox, authenticated search and backlink APIs, filesystem reconciliation, metrics, Docker Compose, and Kubernetes manifests. |
 | [Spring Cloud Platform Lab](https://github.com/MeherwerAli/spring-cloud-platform-lab) | Runnable microservice platform with Eureka discovery, Spring Cloud Gateway, client-side load balancing, Resilience4j fallbacks, Actuator, Prometheus metrics, and Docker Compose. |
 | [Kafka Consumer Reference](https://github.com/MeherwerAli/kafka-consumer-reference) | Failure-aware Kafka consumption with manual offset commits, per-partition ordering, schema validation, dead-letter handling, graceful shutdown, and idempotent processing boundaries. |
+| [Throttle](https://github.com/MeherwerAli/throttle) | TypeScript and Express admission-control toolkit with atomic Redis rate limiting, sliding-window and token-bucket strategies, explicit datastore failure semantics, standards-aligned headers, and Node 22/24 plus Express 4/5 compatibility tests. |
 | [Responsible Web Crawler](https://github.com/MeherwerAli/responsible-web-crawler) | Bounded Python crawler with `robots.txt` enforcement, same-origin controls, request pacing, structured extraction, deterministic fingerprints, and offline tests. |
 | [Document Portfolio Generator](https://github.com/MeherwerAli/document-portfolio-generator) | Validated JSON-to-Markdown, DOCX, and PDF generation with deterministic outputs and automated artifact inspection. |
 | [Engineering Knowledge Vault](https://github.com/MeherwerAli/engineering-knowledge-vault) | Structured Obsidian knowledge system for architecture decisions, operational runbooks, engineering patterns, and evidence-dated technology reviews. |
@@ -62,6 +64,7 @@ I prefer systems where:
 
 - Email: [meherwer.09@gmail.com](mailto:meherwer.09@gmail.com) 
 - GitHub: [@MeherwerAli](https://github.com/MeherwerAli)
+- Portfolio: [Meherwer's Portfolio](https://meherwerali.github.io)
 - Medium: [@meherwer_ali](https://medium.com/@meherwer_ali)
 
 <br>
